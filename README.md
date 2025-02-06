@@ -1,4 +1,4 @@
-# tictactoe-vue3-firebase
+# Tic-tac-toe on Vue3
 
 ## Project setup
 ```
